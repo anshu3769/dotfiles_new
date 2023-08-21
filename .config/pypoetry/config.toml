@@ -1,0 +1,11 @@
+[repositories]
+[repositories.kplr]
+url = "https://pypi.keplergrp.com/simple/"
+
+[settings]
+[settings.virtualenvs]
+create = false
+
+[virtualenvs]
+in-project = true
+prefer-active-python = true
